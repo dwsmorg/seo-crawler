@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "SEO-Crawler (Local)",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "seo_crawler",
+      "Username": "seo_crawler",
+      "SSLMode": "prefer"
+    }
+  }
+}

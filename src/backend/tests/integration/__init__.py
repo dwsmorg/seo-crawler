@@ -1,0 +1,1 @@
+"""Integrationstests fuer Service-Zusammenspiel."""
